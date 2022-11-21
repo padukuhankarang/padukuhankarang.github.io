@@ -4,8 +4,6 @@ Merupakan sebuah web profil sederhana yang dibuat untuk Padukuhan Karang, Kalura
 
 ## Preview
 
-[![Desaku Preview](https://drive.google.com/file/d/1SyaKOF7ZzG6LhcXb84M4e3aGKMmIsdlR/view?usp=sharing)](https://padukuhankarang.github.io)
-
 **[View Live Preview](https://padukuhankarang.github.io/)**
 
 ## About
